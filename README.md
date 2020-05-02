@@ -1,3 +1,3 @@
 # NewsDroid
 
-An Android Mobile App that uses an API to pull news from newsapi.org and display it on a RecyclerView
+An Android Mobile App that uses an API (newsapi.org) to pull news from various sources and display it on a RecyclerView
